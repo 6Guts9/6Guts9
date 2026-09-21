@@ -12,3 +12,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Dberserker"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Dberserker" /></a></p><br><br>
+<p align="center">
+  <img width="854" height="480" alt="tumblr_884b68bbad2b88294a373706e7b2a0b9_134e0c96_1280" src="https://github.com/user-attachments/assets/76ffa44a-8e4c-4a22-8694-76473bc05996" />
+
+</p>
