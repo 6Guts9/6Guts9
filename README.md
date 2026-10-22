@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Yacine</h1>
 <h3 align="center">University Student | Software Engineer | Mobile Developer</h3>
 
--  All of my projects are available at [https://github.com/6Guts9](https://github.com/6Guts9)
+-  You can check my portfolio here https://6guts9.github.io/Portfolio/
 
 -  How to reach me **soussiyacine03@gmail.com**
 
